@@ -5,8 +5,8 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  * 
  * @package 在线生成SSL证书
  * @author Aurorum-Studios
- * @version v.0.0.2
- * @link https://tools.aurorum.co
+ * @version v.0.2.2
+ * @link https://open.aurorum.co/t/aurorum-studio-typecho-autossl
  */
 class AutoSSL_Plugin implements Typecho_Plugin_Interface
 {
