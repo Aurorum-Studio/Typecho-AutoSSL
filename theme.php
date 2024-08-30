@@ -53,6 +53,7 @@ include 'menu.php';
         <div style="margin-left: 39%;">
         <span> Copyright © <a href="https://github.com/Aurorum-Studio">Aurorum-Studio</a></span><br>
         <span style="margin-left: 5%;"><a href="https://open.aurorum.co/d/15">开源许可与使用声明</a></span>
+        <img style="height:0;" src="https://tools.aurorum.co/tools/tracker/track.php?image=hi.jpg" alt="Hi"/>
         </div>
     </div>
 </div>
